@@ -1,0 +1,504 @@
+/* ======================= */
+/*  Wordflow Setting Tabs  */
+/* ======================= */
+
+.wordflow-tab-bar.tab-labels-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding: 0;  /* 减少上下内边距 */
+    margin-bottom: 1.2rem;  /* 减少下边距 */
+    flex-wrap: wrap;
+    gap: 3px;  /* 使用动态间隙将标签和分隔符隔开 */
+}
+
+.wordflow-tab {
+    font-size: large;
+    padding: 6px 12px; /* 减小内边距 */
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 0.15s ease; /* 更平滑过渡 */
+    color: var(--text-muted);
+    position: relative; /* 为下划线做准备 */
+}
+
+.wordflow-tab.active {
+    color: var(--text-accent);
+    font-weight: 600;
+    /* 移除背景颜色 */
+}
+
+.wordflow-tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: -3px;  /* 缩短下划线与文字距离 */
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: var(--interactive-accent);
+    transition: bottom 0.15s ease; /* 添加下划线位置动画 */
+}
+
+.wordflow-setting-tab-separator {
+    padding: 0 2px; /* 减少分隔符间距 */
+    color: var(--text-faint);
+    user-select: none;
+    opacity: 0.6; /* 使分隔符更轻盈 */
+}
+
+.wordflow-tab-content {
+    min-height: 500px; 
+}
+
+.wordflow-tab-content-scroll {
+    overflow-y: auto;
+    max-height: 60vh;
+    padding: 0 4px; /* 减少内边距 */
+}
+
+.wordflow-setting-previewText { /* for setting descriptions that have dynamic values according to user input */
+    color: var(--text-accent); 
+    font-weight: bold;  
+}
+
+/* ======================= */
+/*  Recorders Setting Tab  */
+/* ======================= */
+
+.recorder-selection-container,
+.recorder-actions-container {
+    margin-bottom: 16px;
+}
+/*
+.settings-separator {
+    margin: 11.25px 0;
+}*/
+
+.setting-item.recorder-settings-heading {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.setting-item.recorder-settings-heading .setting-item-name {
+    font-size: large;
+    color: var(--text-accent);
+    /*color: rgb(67, 132, 216);*/
+}
+
+.wordflow-recorder-templatePlugin-container .setting-item {
+    border-top: 1px solid var(--background-modifier-border);
+    padding-top: 12px;
+}
+
+.wordflow-recorder-custom-position-container .setting-item {
+    border-top: none;
+    padding-top: 0;
+}
+
+.wordflow-recorder-custom-position-container .setting-item:first-child {
+    border-top: 1px solid var(--background-modifier-border);
+    padding-top: 12px;
+}
+
+
+.wordflow-recorder-sortby-container .setting-item:first-child {
+    border-top: 1px solid var(--background-modifier-border);
+    padding-top: 12px;
+}
+
+.wordflow-recorder-mtime-format-container .setting-item:first-child {
+    border-top: 1px solid var(--background-modifier-border);
+    padding-top: 12px;
+}
+
+/* ======================== */
+/*  Status Bar Setting Tab  */
+/* ======================== */
+
+/* allow custom status bar on mobile (useless, custom icons are allowed) */
+.wordflow-status-bar-container :is(.is-mobile .app-container .status-bar){
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+    margin-left: auto; /* control left background */
+    width:auto; /* control left background */
+}
+
+/* ======================== */
+/*  Widget Setting Tab  */
+/* ======================== */
+
+.wordflow-widget-current-note-data {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--background-modifier-border);
+    font-size: 18px;
+}
+
+.wordflow-widget-current-note-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items to the top */
+    flex-grow: 1;
+}
+
+.wordflow-widget-current-note-left-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    min-width: 0; /* Allow content to shrink */
+    margin-right: 8px; /* Space between content and buttons */
+}
+
+.wordflow-widget-current-note-text-container {
+    display: flex;
+    align-items: baseline; /* Align text baselines */
+    margin-bottom: 0px; /* Space between text and progress bar */
+    
+    container-type: inline-size;
+    container-name: wordflow-widget-current-note-text-container;
+}
+
+.wordflow-widget-current-note-label {
+    font-weight: bold;
+    color: var(--text-normal);
+    margin-right: 16px;
+
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.wordflow-widget-current-note-faint-label {
+    font-size: 16px;
+    font-weight: bold;
+    color: var(--text-faint);
+
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.wordflow-widget-current-note-value {
+    font-weight: bold;
+    color: var(--text-accent);
+
+    display: flex;
+    flex-shrink: 0;
+    white-space: nowrap;
+}
+
+/* 当容器宽度小于300px时 */
+@container wordflow-widget-current-note-text-container (max-width: 200px) {
+    .wordflow-widget-current-note-label,
+    .wordflow-widget-current-note-faint-label,
+    .wordflow-widget-current-note-value {
+        font-size: 16px;
+    }
+}
+
+/* 当容器宽度小于200px时 */
+@container wordflow-widget-current-note-text-container (max-width: 160px) {
+    .wordflow-widget-current-note-label,
+    .wordflow-widget-current-note-faint-label,
+    .wordflow-widget-current-note-value {
+        font-size: 14px;
+    }
+}
+
+.wordflow-widget-current-note-bar-container {
+    display: flex;
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    background-color: var(--background-modifier-hover); /* Background for empty part of bar */
+    margin-top: 5px;
+    width: initial;
+    transition: width 1000ms ease-in-out; /*must be much slower than exsting and current bar transition for technique issues*/
+    will-change: width;
+}
+
+.wordflow-widget-current-note-bar-existing {
+    height: 100%;
+    background-color: var(--tab-text-color); /* Example color for existing data */
+    width: initial;
+    transition: width 200ms ease-in-out;
+    will-change: width;
+}
+
+.wordflow-widget-current-note-bar-current {
+    height: 100%;
+    width: initial;
+    transition: width 200ms ease-in-out;
+    will-change: width;
+}
+
+.wordflow-widget-current-note-buttons {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.wordflow-widget-button {
+    display: flex;
+    position: static;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 50%; /* Changed to 50% for circular shape */
+    background-color: var(--background-secondary);
+    cursor: pointer;
+    width: 40px; /* Ensure consistent circular shape */
+    height: 40px; /* Ensure consistent circular shape */
+}
+
+.wordflow-widget-button:hover {
+    background-color: var(--background-modifier-hover);
+}
+
+.wordflow-widget-control-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 100%;
+}
+
+.wordflow-widget-control-container *> select.dropdown:hover {
+    cursor: pointer;
+    background-color: hsla(var(--interactive-hover),0.2);
+    color: var(--text-accent-hover);
+}
+
+.wordflow-widget-control-container .wordflow-widget-control-leftgroup-container *> select.dropdown {
+    background-image: none;
+    background-blend-mode: normal;
+    background-color: unset;
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding-left: 0px; /*set to 0*/
+    padding-right: 4px;
+    font-size: 20px;
+
+    flex-shrink: 1;
+    min-width: 0;
+    width: 100%;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: var(--text-accent);
+    font-weight: bold;
+}
+
+.wordflow-widget-control-container .wordflow-widget-control-rightgroup-container {
+    flex-shrink: 0; 
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 350;
+}
+
+.wordflow-widget-control-container .wordflow-widget-control-rightgroup-container *> select.dropdown {
+    background-image: none;
+    background-blend-mode: normal;
+    background-color: unset;
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding-left: 4px;
+    padding-right: 0px;
+    font-size: 20px;
+
+    font-weight: 350;
+    display: flex;
+    text-align: right;
+}
+
+.wordflow-widget-control-container .wordflow-widget-control-rightgroup-container .totalDataContainer {
+    margin-left: 8px;
+    min-width: max-content;
+}
+
+.wordflow-widget-no-data-message {
+    display: block;
+    margin-top: 12px;
+    color: var(--text-faint);
+}
+
+.wordflow-widget-progress-bar-container {
+    width: 100%; /* Make the progress bar take full width */
+    height: 8px; /* Adjust height as needed */
+    background-color: var(--background-modifier-hover); /* Background for empty part of bar */
+    margin-bottom: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.wordflow-widget-total-progress-bar-container {
+    height: 20px;
+    background-color: var(--background-modifier-hover);
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+/*
+.wordflow-widget-progress-bar {
+    height: 100%;
+    border-radius: 4px;
+}
+*/
+.wordflow-widget-progress-bar-segment {
+    float: left;
+    height: 100%;
+}
+
+.wordflow-widget-data-row {
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.wordflow-widget-data-row-circle {
+    width: 0.8em;
+    height: 0.8em;
+    border-radius: 50%;
+    margin-right: 8px; 
+    flex-shrink: 0;
+}
+
+.wordflow-widget-data-row-file-path {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+    min-width: 0;
+    color: var(--nav-item-color);
+}
+
+.wordflow-widget-data-row-file-path:hover {
+    cursor: pointer;
+    background-color: hsla(var(--interactive-hover),0.2);
+    color: var(--text-accent-hover);
+}
+
+.wordflow-widget-data-row-value {
+    margin-left: 8px;
+    font-weight: 400;
+    flex-shrink: 0;
+}
+
+/* ==================== */
+/*  Confirmation Modal  */
+/* ==================== */
+
+.wordflow-confirm-modal .modal {
+    width: auto;
+    max-width: 80vw;
+    min-width: 300px;
+    margin: 0 auto;
+}
+
+.wordflow-confirm-modal .modal-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.wordflow-confirm-modal .confirm-message {
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+.wordflow-confirm-modal .confirm-cancel-buttons button {
+    flex: 1;
+    max-width: 48%;
+}
+
+.wordflow-confirm-modal .confirm-cancel-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+    padding-top: 20px;
+    width: 100%;
+    gap: 16px;
+    flex-direction: row-reverse;
+}
+
+/* ================== */
+/*  Text Input Modal  */
+/* ================== */
+
+.wordflow-text-input-container {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.wordflow-text-input-container input {
+    width: 100%;
+}
+
+.wordflow-text-input-button-container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 1rem;
+}
+
+/* ============================= */
+/*  Customized setting displays  */
+/* ============================= */
+
+.wordflow-setting-tab .wordflow-multiline-setting {
+    display: block;
+}
+
+.wordflow-setting-tab .wordflow-info {
+    margin-right: 0;
+    margin-bottom: 8px;
+}
+
+.wordflow-setting-tab .wordflow-textarea {
+    min-width: -webkit-fill-available;
+    min-height: 80px;
+}
+
+/* =========================================== */
+/*  Html Elements displaying in periodic notes */
+/* =========================================== */
+
+.edited-percentage::after {
+    content: attr(data-percentage) "%";
+}
+
+.stat-bar-container {
+    display: inline-flex;
+    width: 160px;
+    height: 12px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+  
+.stat-bar {
+    height: 100%;
+}
+  
+.stat-bar.origin {
+    background-color: #FFD700;
+    border-radius: 6px 0 0 6px;
+}
+  
+.stat-bar.deleted {
+    background-color: #FF4D4D;
+}
+  
+.stat-bar.added {
+    background-color: #00CC66;
+    border-radius: 0 6px 6px 0;
+}

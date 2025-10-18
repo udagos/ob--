@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "translationVersion": 1740097361270,
+        "pluginVersion": "1.3.0"
+    },
+    "description": {
+        "original": "Dynamic display of file modification and creation timestamps in the status bar.",
+        "translation": "Dynamic display of file modification and creation timestamps in the status bar."
+    },
+    "dict": {
+        "text: \"Last Modified Timestamp\"": "text: \"Last Modified Timestamp\"",
+        "text: \"Created Timestamp\"": "text: \"Created Timestamp\"",
+        "text: \"Cycle Displayed Timestamp On Click\"": "text: \"Cycle Displayed Timestamp On Click\"",
+        ".setName(\"Enabled\")": ".setName(\"Enabled\")",
+        ".setName(\"Timestamp Format\")": ".setName(\"Timestamp Format\")",
+        ".setName(\"Title in Status Bar\")": ".setName(\"Title in Status Bar\")",
+        ".setDesc(\"Turn the display on or off in your status bar.\")": ".setDesc(\"Turn the display on or off in your status bar.\")",
+        ".setDesc(\"Compatible with Moment.js formats, e.g. YYYY-MM-DD H:mm:ss\")": ".setDesc(\"Compatible with Moment.js formats, e.g. YYYY-MM-DD H:mm:ss\")",
+        ".setDesc(\"Enable cycling between the last modified and created timestamp on click in status bar.\")": ".setDesc(\"Enable cycling between the last modified and created timestamp on click in status bar.\")",
+        ".setPlaceholder(\"Enter format\")": ".setPlaceholder(\"Enter format\")",
+        ".setPlaceholder(\"Last Modified: \")": ".setPlaceholder(\"Last Modified: \")",
+        ".setPlaceholder(\"Created: \")": ".setPlaceholder(\"Created: \")",
+        "num": "num"
+    }
+}

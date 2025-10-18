@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "editor-status",
+      "edit-history",
+      "editing-toolbar",
+      "various-complements"
+    ],
+    "leftRibbon": [
+      "查看关系图谱",
+      "打开快速切换",
+      "打开命令面板",
+      "BRAT",
+      "Open Chronology",
+      "HiNote",
+      "Open media",
+      "Advanced Tables Toolbar",
+      "Open Copilot Chat"
+    ]
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

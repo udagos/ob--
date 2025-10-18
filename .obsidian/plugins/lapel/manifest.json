@@ -1,0 +1,10 @@
+{
+    "id": "lapel",
+    "name": "Lapel",
+    "description": "用能够标记你每个标题的装饰来装扮你的编辑器。",
+    "version": "0.1.6",
+    "author": "Liam Cain",
+    "authorUrl": "https://github.com/liamcain/",
+    "isDesktopOnly": false,
+    "minAppVersion": "1.0.0"
+}

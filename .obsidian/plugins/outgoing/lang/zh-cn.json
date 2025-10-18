@@ -1,0 +1,21 @@
+{
+    "manifest": {
+        "translationVersion": 1754635652600,
+        "pluginVersion": "1.1.0a"
+    },
+    "description": {
+        "original": "Displays outgoing links in a hierarchy",
+        "translation": "Displays outgoing links in a hierarchy"
+    },
+    "dict": {
+        "name:\"Show hierarchical outgoing links\"": "name:\"Show hierarchical outgoing links\"",
+        ".setButtonText(\"Exclude Images\")": ".setButtonText(\"Exclude Images\")",
+        ".setButtonText(\"Exclude PDFs\")": ".setButtonText(\"Exclude PDFs\")",
+        ".setName(\"Exclude files filter\")": ".setName(\"Exclude files filter\")",
+        ".setName(\"Examples\")": ".setName(\"Examples\")",
+        ".setDesc(\"Exclude files that match regular expression\")": ".setDesc(\"Exclude files that match regular expression\")",
+        ".setDesc(\"Common examples to demonstrate using the exclude filter\")": ".setDesc(\"Common examples to demonstrate using the exclude filter\")",
+        ".setPlaceholder(\"\").setValue(this.plugin.settings.excludeFilesFilter).onChange(async s=>{this.plugin.settings.excludeFilesFilter=s,await this.plugin.saveSettings()}),e=i}),new c.Setting(t).setName(\"Examples\")": ".setPlaceholder(\"\").setValue(this.plugin.settings.excludeFilesFilter).onChange(async s=>{this.plugin.settings.excludeFilesFilter=s,await this.plugin.saveSettings()}),e=i}),new c.Setting(t).setName(\"Examples\")",
+        "num": "num"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "translationVersion": 1732324223295,
+        "pluginVersion": "0.5.6"
+    },
+    "description": {
+        "original": "Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace, and more",
+        "translation": "Per-tab history, hotkeys for pane/tab movement, navigation, sliding workspace, and more"
+    },
+    "dict": {
+        "Notice(\"Missing file: \"+t)": "Notice(\"Missing file: \"+t)",
+        "Notice(`Pinned ${v}: unpin before going forward or back`)": "Notice(`Pinned ${v}: unpin before going forward or back`)",
+        "Notice(\"Pane is busy: please wait before navigating further\")": "Notice(\"Pane is busy: please wait before navigating further\")",
+        "Notice(`No more ${r<0?\"back\":\"forward\"} history for ${v}`)": "Notice(`No more ${r<0?\"back\":\"forward\"} history for ${v}`)",
+        "Notice(e?\"Sidebar focusing disabled\":\"Sidebar focusing enabled\")": "Notice(e?\"Sidebar focusing disabled\":\"Sidebar focusing enabled\")",
+        ".error(a)": ".error(a)",
+        ".error(o)": ".error(o)",
+        "link:\"link\"": "link:\"link\""
+    }
+}

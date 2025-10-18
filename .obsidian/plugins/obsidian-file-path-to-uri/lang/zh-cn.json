@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "translationVersion": 1733973620202,
+        "pluginVersion": "1.4.1"
+    },
+    "description": {
+        "original": "Convert file path to uri for easier use of links to local files outside of Obsidian",
+        "translation": "Convert file path to uri for easier use of links to local files outside of Obsidian"
+    },
+    "dict": {
+        ".log('Loading plugin FilePathToUri...')": ".log('Loading plugin FilePathToUri...')",
+        ".log('Unloading plugin FilePathToUri...')": ".log('Unloading plugin FilePathToUri...')",
+        "name: 'Toggle selected file path to URI and back'": "name: 'Toggle selected file path to URI and back'",
+        "name: 'Paste file path as file uri'": "name: 'Paste file path as file uri'",
+        "name: 'Paste file path as file uri link'": "name: 'Paste file path as file uri link'",
+        "name: 'Paste file path as file uri link - Name only'": "name: 'Paste file path as file uri link - Name only'"
+    }
+}

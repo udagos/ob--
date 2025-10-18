@@ -1,0 +1,10 @@
+/* 隐藏出链面板中的图片链接 */
+.tree-item-inner-text[href$=".png"],
+.tree-item-inner-text[href$=".jpg"],
+.tree-item-inner-text[href$=".jpeg"],
+.tree-item-inner-text[href$=".gif"],
+.tree-item-inner-text[href$=".bmp"],
+.tree-item-inner-text[href$=".svg"],
+.tree-item-inner-text[href$=".webp"] {
+    display: none;
+}

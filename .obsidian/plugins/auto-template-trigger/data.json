@@ -1,0 +1,14 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "1/inbox",
+      "templateName": "未1"
+    },
+    {
+      "folderPath": "",
+      "templateName": ""
+    }
+  ],
+  "disablePrompt": false,
+  "debug": false
+}

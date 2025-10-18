@@ -1,0 +1,21 @@
+{
+  "attachmentFolderPath": "fujian",
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "newFileFolderPath": "inbox",
+  "userIgnoreFilters": [
+    "附件/"
+  ],
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "promptDelete": false
+}

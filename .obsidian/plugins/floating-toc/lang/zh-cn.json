@@ -1,0 +1,33 @@
+{
+    "manifest": {
+        "translationVersion": 1732324028554,
+        "pluginVersion": "2.4.7"
+    },
+    "description": {
+        "original": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar.",
+        "translation": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar."
+    },
+    "dict": {
+        "Notice(\"Copied\")": "Notice(\"Copied\")",
+        "Notice(\"Position style set to both. Toogle position only works when fixed position (left or right)": "Notice(\"Position style set to both. Toogle position only works when fixed position (left or right)",
+        "name:\"Pinning the Floating TOC panel\"": "name:\"Pinning the Floating TOC panel\"",
+        "name:\"Hide/Show the Floating TOC panel\"": "name:\"Hide/Show the Floating TOC panel\"",
+        "name:\"Scroll to Bottom\"": "name:\"Scroll to Bottom\"",
+        "name:\"Scroll to Top\"": "name:\"Scroll to Top\"",
+        "name:\"Toggle Floating TOC Position (left/right)\"": "name:\"Toggle Floating TOC Position (left/right)\"",
+        "text:\"Obsidian Floating TOC \"": "text:\"Obsidian Floating TOC \"",
+        "text:\"\"}).createEl(\"": "text:\"\"}).createEl(\"",
+        "text:\"Author: Cuman \\u2728\"": "text:\"Author: Cuman \\u2728\"",
+        "text:\"Readme:\\u4E2D\\u6587\"": "text:\"Readme:\\u4E2D\\u6587\"",
+        "text:\"|English  \"": "text:\"|English  \"",
+        "text:\"\\u{1F511}TIPS:\"": "text:\"\\u{1F511}TIPS:\"",
+        "text:\"\\u{1F514} Notice: Please click the button again,If the floating-toc option is not found in the style settings\"": "text:\"\\u{1F514} Notice: Please click the button again,If the floating-toc option is not found in the style settings\"",
+        "text:\"Please install or enable the style-settings plugin\"": "text:\"Please install or enable the style-settings plugin\"",
+        ".setButtonText(\"\\u{1F3A8} Open style settings\")": ".setButtonText(\"\\u{1F3A8} Open style settings\")",
+        ".setTooltip(\"pin\")": ".setTooltip(\"pin\")",
+        ".setTooltip(\"Scroll to Top\")": ".setTooltip(\"Scroll to Top\")",
+        ".setTooltip(\"Scroll to Bottom\")": ".setTooltip(\"Scroll to Bottom\")",
+        ".setTooltip(\"copy to clipboard\")": ".setTooltip(\"copy to clipboard\")",
+        ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the button below!\")": ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the button below!\")"
+    }
+}

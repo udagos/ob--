@@ -1,0 +1,10 @@
+{
+    "id": "moc-link-helper",
+    "name": "MOC Link Helper",
+    "version": "1.1.12",
+    "minAppVersion": "1.6.0",
+    "description": "帮助一些MOC管理员链接任务。",
+    "author": "Bogdan Codreanu",
+    "fundingUrl": "https://buymeacoffee.com/bogdancod",
+    "isDesktopOnly": true
+}

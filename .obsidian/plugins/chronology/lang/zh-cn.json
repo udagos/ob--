@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "translationVersion": 1732324178489,
+        "pluginVersion": "1.1.11"
+    },
+    "description": {
+        "original": "Provides a calendar and a timeline of the notes creation and modification",
+        "translation": "Provides a calendar and a timeline of the notes creation and modification"
+    },
+    "dict": {
+        ".log(r.length+1)": ".log(r.length+1)",
+        ".log(me()": ".log(me()",
+        ".error(\"forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported\")": ".error(\"forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported\")",
+        ".error(t.value)": ".error(t.value)",
+        ".error(e)": ".error(e)",
+        "name:\"\")?jn(e):\"": "name:\"\")?jn(e):\"",
+        "name:\"Show Sidebar\"": "name:\"Show Sidebar\"",
+        "text:\"Chronology Settings\"": "text:\"Chronology Settings\"",
+        ".setName(\"Add Ribbon Icon\")": ".setName(\"Add Ribbon Icon\")",
+        ".setName(\"Average Daily Notes\")": ".setName(\"Average Daily Notes\")",
+        ".setName(\"First Day of the Week\")": ".setName(\"First Day of the Week\")",
+        ".setName(\"Creation Date Attribute\")": ".setName(\"Creation Date Attribute\")",
+        ".setName(\"Modified Date Attribute\")": ".setName(\"Modified Date Attribute\")",
+        ".setDesc(\"Adds an icon to the ribbon to open sidebar\")": ".setDesc(\"Adds an icon to the ribbon to open sidebar\")",
+        ".setDesc(\"Used to display the daily indicator in the calendar\")": ".setDesc(\"Used to display the daily indicator in the calendar\")",
+        ".setDesc(`Default will use the one from your locale (${l[r]}). A plugin restart is required.`)": ".setDesc(`Default will use the one from your locale (${l[r]}). A plugin restart is required.`)",
+        ".setDesc(\"The name of the metadata attribute to use for creation date\")": ".setDesc(\"The name of the metadata attribute to use for creation date\")",
+        ".setDesc(\"The name of the metadata attribute to use for modified date\")": ".setDesc(\"The name of the metadata attribute to use for modified date\")"
+    }
+}

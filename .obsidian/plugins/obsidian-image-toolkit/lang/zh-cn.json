@@ -1,0 +1,50 @@
+{
+    "manifest": {
+        "translationVersion": 1732324034282,
+        "pluginVersion": "1.4.2"
+    },
+    "description": {
+        "original": "This plugin provides some image viewing toolkit.",
+        "translation": "This plugin provides some image viewing toolkit."
+    },
+    "dict": {
+        "Notice(t(\"COPY_IMAGE_SUCCESS\")": "Notice(t(\"COPY_IMAGE_SUCCESS\")",
+        "Notice(t(\"COPY_IMAGE_ERROR\")": "Notice(t(\"COPY_IMAGE_ERROR\")",
+        "Notice(t(\"PIN_MAXIMUM_NOTICE\")": "Notice(t(\"PIN_MAXIMUM_NOTICE\")",
+        ".log('copyText:', copyText)": ".log('copyText:', copyText)",
+        ".log('calculateImgZoomSize', 'realImg: ' + realImg.width + ',' + realImg.height,\r\n        'tempSize: ' + tempWidth + ',' + tempHeight,\r\n        'windowZoomSize: ' + windowZoomWidth + ',' + windowZoomHeight,\r\n        'windowSize: ' + windowWidth + ',' + windowHeight)": ".log('calculateImgZoomSize', 'realImg: ' + realImg.width + ',' + realImg.height,\r\n        'tempSize: ' + tempWidth + ',' + tempHeight,\r\n        'windowZoomSize: ' + windowZoomWidth + ',' + windowZoomHeight,\r\n        'windowSize: ' + windowWidth + ',' + windowHeight)",
+        ".log('keyup', event, event.key)": ".log('keyup', event, event.key)",
+        ".log('keydown', event, event.key, this.imgStatus)": ".log('keydown', event, event.key, this.imgStatus)",
+        ".log(\"[oit] checkHotkeySettings: \", event.ctrlKey, event.altKey, event.shiftKey)": ".log(\"[oit] checkHotkeySettings: \", event.ctrlKey, event.altKey, event.shiftKey)",
+        ".log('mouseenterImgView', event, this.imgGlobalStatus.activeImg)": ".log('mouseenterImgView', event, this.imgGlobalStatus.activeImg)",
+        ".log('mousedownImgView', event, this.imgGlobalStatus.activeImg, event.button)": ".log('mousedownImgView', event, this.imgGlobalStatus.activeImg, event.button)",
+        ".log('mousemoveImgView', event, this.imgGlobalStatus.activeImg)": ".log('mousemoveImgView', event, this.imgGlobalStatus.activeImg)",
+        ".log('mouseupImgView', event, this.imgGlobalStatus.activeImg)": ".log('mouseupImgView', event, this.imgGlobalStatus.activeImg)",
+        ".log('mouseleaveImgView', event, this.imgGlobalStatus.activeImg, '>>> set null')": ".log('mouseleaveImgView', event, this.imgGlobalStatus.activeImg, '>>> set null')",
+        ".log('mousedownImgView: double click...', activeImg.index)": ".log('mousedownImgView: double click...', activeImg.index)",
+        ".log('getAndUpdateActiveImg: ', activeImg)": ".log('getAndUpdateActiveImg: ', activeImg)",
+        ".log((i + 1)": ".log((i + 1)",
+        ".log('oit-gallery-navbar: ' + (hitCache ? 'hit cache' : 'miss cache')": ".log('oit-gallery-navbar: ' + (hitCache ? 'hit cache' : 'miss cache')",
+        ".log('IMAGE_SELECTOR>>', imageSelector, imgs)": ".log('IMAGE_SELECTOR>>', imageSelector, imgs)",
+        ".log('mouse Down Gallery...')": ".log('mouse Down Gallery...')",
+        ".log('mouse Move Gallery...')": ".log('mouse Move Gallery...')",
+        ".log('move...', 'windowWidth=' + windowWidth, 'galleryTranslateX=' + galleryTranslateX, 'li count=' + imgInfo.galleryList.childElementCount)": ".log('move...', 'windowWidth=' + windowWidth, 'galleryTranslateX=' + galleryTranslateX, 'li count=' + imgInfo.galleryList.childElementCount)",
+        ".log('mouse Up Gallery>>>', event.target)": ".log('mouse Up Gallery>>>', event.target)",
+        ".log('mouse Leave Gallery>>>', event.target)": ".log('mouse Leave Gallery>>>', event.target)",
+        ".log('closeContainerView', event, activeImg)": ".log('closeContainerView', event, activeImg)",
+        ".log('[oit] Reset view mode: %s', DEFAULT_VIEW_MODE)": ".log('[oit] Reset view mode: %s', DEFAULT_VIEW_MODE)",
+        ".log('[oit] Reset view mode to: %s', viewMode)": ".log('[oit] Reset view mode to: %s', viewMode)",
+        ".log(event.target)": ".log(event.target)",
+        ".log('loading %s plugin v%s ...', this.manifest.id, this.manifest.version)": ".log('loading %s plugin v%s ...', this.manifest.id, this.manifest.version)",
+        ".log('popout leaf:', leaf, leaf.getDisplayText()": ".log('popout leaf:', leaf, leaf.getDisplayText()",
+        ".log('unloading ' + this.manifest.id + ' plugin...')": ".log('unloading ' + this.manifest.id + ' plugin...')",
+        ".error(\"[oit] Image toolkit locale not found\", obsidian.moment.locale()": ".error(\"[oit] Image toolkit locale not found\", obsidian.moment.locale()",
+        ".error('copy text error', err)": ".error('copy text error', err)",
+        ".error(error)": ".error(error)",
+        ".error('obsidian-image-toolkit: oit-*-container-view has not been initialized!')": ".error('obsidian-image-toolkit: oit-*-container-view has not been initialized!')",
+        ".error('[oit] Cannot init container')": ".error('[oit] Cannot init container')",
+        "link: `![[bird.png|alt1|alt2|2.1|50]]`": "link: `![[bird.png|alt1|alt2|2.1|50]]`",
+        ".setTooltip('restore default color')": ".setTooltip('restore default color')",
+        ".innerText = \" \"": ".innerText = \" \""
+    }
+}

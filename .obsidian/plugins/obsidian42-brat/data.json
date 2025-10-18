@@ -1,0 +1,30 @@
+{
+  "pluginList": [
+    "SkepticMystic/breadcrumbs",
+    "Feel-ix-343/obsidian-canvas-moc",
+    "CatMuse/HiNote",
+    "open-spaced-repetition/obsidian-spaced-repetition-recall"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Feel-ix-343/obsidian-canvas-moc",
+      "version": ""
+    },
+    {
+      "repo": "SkepticMystic/breadcrumbs",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

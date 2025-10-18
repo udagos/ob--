@@ -1,0 +1,39 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "1/归档",
+      "tag": "#off",
+      "pattern": ""
+    },
+    {
+      "folder": "删除",
+      "tag": "#del",
+      "pattern": ""
+    },
+    {
+      "folder": "1/moc",
+      "tag": "#moc",
+      "pattern": ""
+    },
+    {
+      "folder": "1/已归类卡",
+      "tag": "#ed",
+      "pattern": ""
+    },
+    {
+      "folder": "1/未归类卡",
+      "tag": "#re",
+      "pattern": ""
+    },
+    {
+      "folder": "1/book",
+      "tag": "",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": []
+}

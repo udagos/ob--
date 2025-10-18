@@ -1,0 +1,10 @@
+{
+    "id": "various-complements",
+    "name": "Various Complements",
+    "version": "10.8.0",
+    "minAppVersion": "0.16.0",
+    "description": "此插件使您能够像IDE的自动完成功能一样补全单词",
+    "author": "tadashi-aikawa",
+    "authorUrl": "https://github.com/tadashi-aikawa",
+    "isDesktopOnly": false
+}

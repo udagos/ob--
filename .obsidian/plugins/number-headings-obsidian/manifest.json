@@ -1,0 +1,10 @@
+{
+    "id": "number-headings-obsidian",
+    "name": "Number Headings",
+    "version": "1.16.0",
+    "minAppVersion": "1.4.0",
+    "description": "给笔记中的标题自动编号，以及动态目录；使用 Number headings 的命令或者开启自动编号后，我们就可以编辑文档了。无论你怎么编辑文档，它都会自动更新章节标题。",
+    "author": "Kevin Albrecht (onlyafly@gmail.com)",
+    "authorUrl": "https://www.kevinalbrecht.com",
+    "isDesktopOnly": false
+}

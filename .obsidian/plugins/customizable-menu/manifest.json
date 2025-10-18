@@ -1,0 +1,10 @@
+{
+    "id": "customizable-menu",
+    "name": "Customizable Menu",
+    "version": "2.2.0",
+    "minAppVersion": "0.12.11",
+    "description": "允许你向Obsidian的右键菜单添加或隐藏任何命令",
+    "author": "kzhovn",
+    "authorUrl": "https://github.com/kzhovn/",
+    "isDesktopOnly": false
+}

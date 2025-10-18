@@ -1,0 +1,11 @@
+{
+  "archiveConfigs": [
+    {
+      "sourceFolder": "",
+      "destFolder": "归档",
+      "maintainFolderStructure": true,
+      "deleteEmptyFolders": true,
+      "days": 365
+    }
+  ]
+}

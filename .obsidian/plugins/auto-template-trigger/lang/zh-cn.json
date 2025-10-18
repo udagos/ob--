@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "translationVersion": 1732324236841,
+        "pluginVersion": "1.2.2"
+    },
+    "description": {
+        "original": "Automatically apply or prompt for a template when creating a note. Supports assigning templates to folders.",
+        "translation": "Automatically apply or prompt for a template when creating a note. Supports assigning templates to folders."
+    },
+    "dict": {
+        ".error(\"No template files found\")": ".error(\"No template files found\")",
+        ".error(\"findAssignedTemplate: No active folder\")": ".error(\"findAssignedTemplate: No active folder\")",
+        ".error(\"Template not found: \",r)": ".error(\"Template not found: \",r)",
+        "name:\"applyStyles\"": "name:\"applyStyles\"",
+        "name:\"arrow\"": "name:\"arrow\"",
+        "name:\"computeStyles\"": "name:\"computeStyles\"",
+        "name:\"eventListeners\"": "name:\"eventListeners\"",
+        "name:\"flip\"": "name:\"flip\"",
+        "name:\"hide\"": "name:\"hide\"",
+        "name:\"offset\"": "name:\"offset\"",
+        "name:\"popperOffsets\"": "name:\"popperOffsets\"",
+        "name:\"preventOverflow\"": "name:\"preventOverflow\"",
+        "name:\"sameWidth\"": "name:\"sameWidth\"",
+        "text:\"reference\"": "text:\"reference\"",
+        ".setButtonText(\"Add\")": ".setButtonText(\"Add\")",
+        ".setName(\"Folder specific templates\")": ".setName(\"Folder specific templates\")",
+        ".setDesc(\"Select a template, which will be automatically applied on new notes in the selected folder. The most specific folder path will be used.\")": ".setDesc(\"Select a template, which will be automatically applied on new notes in the selected folder. The most specific folder path will be used.\")",
+        ".setPlaceholder(\"Select a folder\")": ".setPlaceholder(\"Select a folder\")"
+    }
+}

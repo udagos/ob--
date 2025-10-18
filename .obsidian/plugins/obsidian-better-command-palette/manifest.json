@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-better-command-palette",
+    "name": "Better Command Palette",
+    "version": "0.17.1",
+    "minAppVersion": "0.12.0",
+    "description": "一个命令面板,可以执行您希望它执行的所有操作。",
+    "author": "Alex Bieg",
+    "authorUrl": "www.github.com/AlexBieg",
+    "isDesktopOnly": false
+}

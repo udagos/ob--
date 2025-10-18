@@ -1,0 +1,11 @@
+{
+	"id": "hierarchical-outgoing-links",
+	"name": "Hierarchical Outgoing Links",
+	"version": "1.2.0",
+	"minAppVersion": "1.9.10",
+	"description": "Displays outgoing links in a hierarchy",
+	"author": "Jason Motylinski",
+	"authorUrl": "https://jason.motylinski.com",
+	"fundingUrl": "https://www.buymeacoffee.com/jasonmotylinski",
+	"isDesktopOnly": false
+}

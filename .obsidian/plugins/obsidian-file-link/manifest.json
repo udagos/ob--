@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-file-link",
+    "name": "Better File Link",
+    "version": "1.2.1",
+    "minAppVersion": "1.7.7",
+    "description": "一个可以向笔记添加更好的外部文件链接的插件。",
+    "author": "Marc Julian Schwarz",
+    "authorUrl": "https://www.marc-julian.de",
+    "isDesktopOnly": true
+}

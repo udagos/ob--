@@ -1,0 +1,38 @@
+{
+    "manifest": {
+        "translationVersion": 1732324082114,
+        "pluginVersion": "1.0.7"
+    },
+    "description": {
+        "original": "Automatically archive notes once they reach a certain age",
+        "translation": "Automatically archive notes once they reach a certain age"
+    },
+    "dict": {
+        "name: \"applyStyles\"": "name: \"applyStyles\"",
+        "name: \"arrow\"": "name: \"arrow\"",
+        "name: \"computeStyles\"": "name: \"computeStyles\"",
+        "name: \"eventListeners\"": "name: \"eventListeners\"",
+        "name: \"flip\"": "name: \"flip\"",
+        "name: \"hide\"": "name: \"hide\"",
+        "name: \"offset\"": "name: \"offset\"",
+        "name: \"popperOffsets\"": "name: \"popperOffsets\"",
+        "name: \"preventOverflow\"": "name: \"preventOverflow\"",
+        "name: \"sameWidth\"": "name: \"sameWidth\"",
+        "text: \"reference\"": "text: \"reference\"",
+        "text: `Configuration ${i + 1}`": "text: `Configuration ${i + 1}`",
+        ".setButtonText(\"Delete config\")": ".setButtonText(\"Delete config\")",
+        ".setButtonText(\"Add archive config\")": ".setButtonText(\"Add archive config\")",
+        ".setName(\"Source folder\")": ".setName(\"Source folder\")",
+        ".setName(\"Archive folder\")": ".setName(\"Archive folder\")",
+        ".setName(\"Maintain folder structure\")": ".setName(\"Maintain folder structure\")",
+        ".setName(\"Auto-delete empty folders\")": ".setName(\"Auto-delete empty folders\")",
+        ".setName(\"Archive after X days\")": ".setName(\"Archive after X days\")",
+        ".setDesc(\"Archive notes from this folder\")": ".setDesc(\"Archive notes from this folder\")",
+        ".setDesc(\"Move notes to this folder\")": ".setDesc(\"Move notes to this folder\")",
+        ".setDesc(\"Maintain the source folder's hierarchy in the archive?\")": ".setDesc(\"Maintain the source folder's hierarchy in the archive?\")",
+        ".setDesc(\"Delete folders from which all notes have been archived?\")": ".setDesc(\"Delete folders from which all notes have been archived?\")",
+        ".setDesc(\"Age of note in days when archival will occur\")": ".setDesc(\"Age of note in days when archival will occur\")",
+        ".setPlaceholder(\"Example: work/notes\")": ".setPlaceholder(\"Example: work/notes\")",
+        ".setPlaceholder(\"Example: work/note_archive\")": ".setPlaceholder(\"Example: work/note_archive\")"
+    }
+}

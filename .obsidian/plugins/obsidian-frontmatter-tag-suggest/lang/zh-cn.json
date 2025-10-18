@@ -1,0 +1,14 @@
+{
+    "manifest": {
+        "translationVersion": 1740360008971,
+        "pluginVersion": "0.4.1"
+    },
+    "description": {
+        "original": "Autocompletes tags in the frontmatter tags field",
+        "translation": "Autocompletes tags in the frontmatter tags field"
+    },
+    "dict": {
+        ".setText(`#${suggestion}`)": ".setText(`#${suggestion}`)",
+        "num": "num"
+    }
+}
