@@ -33,7 +33,8 @@
   ],
   "startup_templates": [
     "templater/日记更名移动.md",
-    "templater/有up移动到归类.md"
+    "templater/有up移动到归类.md",
+    "templater/same移动到note.md"
   ],
   "intellisense_render": 1
 }

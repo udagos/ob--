@@ -1,0 +1,17 @@
+# 定义文件名前缀和扩展名
+file_prefix = "log_"
+file_extension = ".log"
+
+# 确保目录存在
+if not os.path.exists(file_dir):
+    os.makedirs(file_dir)
+
+# 获取当前时间戳
+timestamp = datetime.datetime.now().strftime("%Y%m%d%H%M%S")
+
+# 获取剪切板内容
+clipboard_content = pyperclip.paste()
+
+# 构建文件的完整路径，包括时间戳
+file_name = f"{file_prefix}{timestamp}{file_extension}"
+file_path = os.path.join(file_dir, file_name)
