@@ -1,3 +1,7 @@
+---
+same:
+  - "[[SystemInit_ExtMemCtl]]"
+---
 
 这段代码是用C语言编写的，主要用于初始化STM32微控制器的系统配置。它通常在系统复位后运行，用于设置时钟、浮点单元（FPU）、中断向量表等关键硬件配置。以下是对代码的详细解析：
 
@@ -74,7 +78,7 @@ RCC->CIR = 0x00000000;
   SystemInit_ExtMemCtl(); 
 #endif /* DATA_IN_ExtSRAM || DATA_IN_ExtSDRAM */
 ```
-- **功能**：如果定义了 `DATA_IN_ExtSRAM` 或 `DATA_IN_ExtSDRAM`，则调用 [[../已归类卡/SystemInit_ExtMemCtl]] 函数。
+- **功能**：如果定义了 `DATA_IN_ExtSRAM` 或 `DATA_IN_ExtSDRAM`，则调用 [[SystemInit_ExtMemCtl]] 函数。
 - **条件**：
   - `DATA_IN_ExtSRAM`：表示数据存储在外部SRAM中。
   - `DATA_IN_ExtSDRAM`：表示数据存储在外部SDRAM中。

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/软件工程]]"
+  - "[[../moc/moc软件工程]]"
 ---
 ```
 import pyperclip  

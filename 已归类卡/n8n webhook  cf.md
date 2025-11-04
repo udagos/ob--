@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/n8n|n8n]]"
+  - "[[../moc/MocN8n|MocN8n]]"
 ---
 
 ![](../../fujian/Pasted%20image%2020250909154017.png)

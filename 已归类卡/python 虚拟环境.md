@@ -1,12 +1,16 @@
 ---
 up:
-  - "[[../moc/软件工程]]"
+  - "[[../moc/moc软件工程]]"
+prev:
+  - "[[虚拟环境]]"
+obsidian-note-status:
+  - colorful:idea
 ---
 
 
 
 # conda
-单独的目录（所有conda都在该目录管理），
+单独的目录==（所有conda都在该目录管理）==，
 	C:\Users\udago\. conda\envs\pythonProject5
 插件有pip安装的和conda安装的
 	pip C:\Users\udago\. conda\envs\pythonProject5\Lib\site-packages
@@ -15,12 +19,12 @@ up:
 # env   `Virtualenv`
 目录在项目下
 
-- **核心功能**: 创建一个独立的、与系统 Python 环境隔离的文件夹，里面包含一个特定版本的 Python 解释器和 `pip`。
-- **依赖管理**: 它本身不直接管理依赖。你需要手动使用 `pip install <package>` 安装包，然后通过 `pip freeze > requirements.txt` 来记录**依赖**。
+- **核心功能**: 创建一个独立的、==与系统 Python 环境隔离的文件夹，里面包含一个特定版本的 Python 解释器和 `pip`。==
+- **依赖管理**: 它本身不直接管理依赖。==你需要手动使用 `pip install <package>` 安装包==，然后通过 `pip freeze > requirements.txt` 来记录**依赖**。
 
-需要**手动管理** `requirements.txt` 文件，容易导致版本不一致。
+==需要**手动管理** `requirements.txt` 文件，容易导致版本不一致。==
 # pipenv 
-- **核心功能**: 自动为你创建和管理虚拟环境，并使用 `Pipfile` 和 `Pipfile.lock` 来替代 `requirements.txt`。
+- **核心功能**: ==自动为你创建和管理虚拟环境，并使用 `Pipfile` 和 `Pipfile.lock` 来替代 `requirements.txt`。==
 - **依赖管理**:
     - `Pipfile`: 用来定义项目依赖的包，类似于 Node.js 的 `package.json`。它会区分生产依赖 (`[packages]`) 和开发依赖 (`[dev-packages]`)。
     - `Pipfile.lock`: 自动生成，锁定所有依赖包及其子依赖的精确版本号，确保在任何环境下都能安装完全相同的依赖，实现确定性构建。
@@ -82,7 +86,7 @@ Conda 会从自己的 **Anaconda Repository** (或其他 conda-forge 等频道) 
     这几乎总能成功。因为 `conda-forge` 频道的维护者已经为你把 `gdal` 和它需要的所有 C++ 依赖在各种操作系统上都编译好了。你下载的直接是二进制文件，解压即用，无需本地编译。
     
     - **关键区别**: **Conda 在处理复杂的、非 Python 的二进制依赖方面具有压倒性优势**。这是它在数据科学领域如此流行的核心原因。
-# uv 不是虚拟环境，而是pip替代
+# ==uv 不是虚拟环境，而是pip替代==
 ### 作为 `pip` 和 `venv` 的直接替代品
 用 `pip` 安装 `requirements.txt` 里的包
 - **传统方式**:
@@ -191,4 +195,3 @@ dependencies = [
 
 
 
-[[../已归类卡/nodejs 虚拟]]

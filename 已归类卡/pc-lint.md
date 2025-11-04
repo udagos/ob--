@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work]]"
+  - "[[../moc/mocwork]]"
 ---
 Error 146: Assuming a binary constant
 Warning  537:Repeatedincludefile

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work]]"
+  - "[[../moc/mocwork]]"
 ---
 ## 1 ImageRotateDstMemDmaClear
 Description	Resource	Path	Location	Type

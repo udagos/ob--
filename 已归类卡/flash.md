@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../inbox/cotex|cotex]]"
+  - "[[../moc/MocCotex|MocCotex]]"
 ---
 Nor-Flash 中的 Nor 是或非门的缩写。
 

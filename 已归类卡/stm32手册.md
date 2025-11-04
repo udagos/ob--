@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../inbox/cotex|cotex]]"
+  - "[[../moc/MocCotex|MocCotex]]"
 ---
 **开启该外设时钟**
 **配置 GPIO_InitTypeDef**

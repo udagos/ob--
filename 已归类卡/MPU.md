@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../inbox/cotex|cotex]]"
+  - "[[../moc/MocCotex|MocCotex]]"
 ---
 好的，明白了！您对 ARM MPU (Memory Protection Unit, 内存保护单元) 感兴趣。这绝对是嵌入式系统安全性和可靠性中至关重要的一个组件。让我为您详细解读 ARM MPU，从概念到应用，帮您全面理解它。
 

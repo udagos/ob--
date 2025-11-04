@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work|work]]"
+  - "[[mocWorkCode]]"
 ---
 #kan
 #ed 

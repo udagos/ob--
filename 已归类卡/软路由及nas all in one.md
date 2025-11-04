@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/网络|网络]]"
+  - "[[../moc/moc网络|moc网络]]"
 ---
 
 [家庭服务器构建方案](https://zhuanlan.zhihu.com/p/713432619)

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/zynq]]"
+  - "[[../moc/MocZynq]]"
 ---
 
 

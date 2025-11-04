@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work|work]]"
+  - "[[mocpid]]"
 ---
 [moc pid](moc%20pid)
 #ed 

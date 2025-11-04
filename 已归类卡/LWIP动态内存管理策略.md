@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../inbox/cotex|cotex]]"
+  - "[[../moc/MocCotex|MocCotex]]"
 ---
 LWIP（Lightweight IP）协议栈提供了两种主要的动态内存管理策略：动态内存堆（Heap）和动态内存池（Pool）。它们各有特点，适用于不同的场景，以下是详细介绍：
 

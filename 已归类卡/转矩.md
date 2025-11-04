@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work|work]]"
+  - "[[../moc/mocwork|mocwork]]"
 ---
 [moc 其他集成测试](../moc/moc%20其他集成测试.md)
 #ed 

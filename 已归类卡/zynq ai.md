@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/zynq|zynq]]"
+  - "[[../moc/MocZynq|MocZynq]]"
 ---
 zynq 入门学习项目  
 

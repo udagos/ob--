@@ -1,0 +1,14 @@
+{
+    "id": "obsidian42-strange-new-worlds",
+    "name": "Strange New Worlds",
+    "version": "2.3.5",
+    "minAppVersion": "1.7.2",
+    "description": "通过视觉指示了解你的 vault 是如何相互关联的。",
+    "author": "TfTHacker",
+    "authorUrl": "https://twitter.com/TfTHacker",
+    "helpUrl": "https://tfthacker.com/SNW",
+    "isDesktopOnly": false,
+    "fundingUrl": {
+        "Sponsor my work": "https://tfthacker.com/sponsor"
+    }
+}

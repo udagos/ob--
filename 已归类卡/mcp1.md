@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/mcp]]"
+  - "[[../moc/mocmcp]]"
 ---
 [moc 兴趣](moc%20兴趣)
 #ed 

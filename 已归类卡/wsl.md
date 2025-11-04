@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/linux|linux]]"
+  - "[[../moc/mocLinux|mocLinux]]"
 ---
 [moc 兴趣](moc%20兴趣)
 #ed 

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../inbox/cotex|cotex]]"
+  - "[[../moc/MocCotex|MocCotex]]"
 ---
 
 

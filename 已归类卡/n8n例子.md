@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/n8n|n8n]]"
+  - "[[../moc/MocN8n|MocN8n]]"
 ---
 
 version: '3.8'

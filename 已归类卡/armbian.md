@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/瑞芯微|瑞芯微]]"
+  - "[[../moc/moc瑞芯微|moc瑞芯微]]"
 ---
 # `armbian-firmware-full`
 

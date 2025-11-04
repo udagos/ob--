@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work|work]]"
+  - "[[moc集成测试]]"
 ---
 [MOC cis](../moc/MOC%20cis.md)
 #ed 

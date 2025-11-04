@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/work|work]]"
+  - "[[../moc/mocwork|mocwork]]"
 ---
 
 ## 隔了很多各版本提交

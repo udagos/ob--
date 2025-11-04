@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/网络|网络]]"
+  - "[[../moc/moc网络|moc网络]]"
 ---
 [Site Unreachable](https://zhuanlan.zhihu.com/p/713062581)
 [光猫桥接，路由器拨号获取IPv6](https://zhuanlan.zhihu.com/p/713208793)
