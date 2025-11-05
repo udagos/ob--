@@ -1,7 +1,3 @@
----
-up:
-  - "[[../moc/MocN8n|MocN8n]]"
----
 
 ```
 #!/bin/bash

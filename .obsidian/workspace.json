@@ -18,9 +18,951 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "mocwork",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocwork.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocwork\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "mcp1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/mcp1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mcp1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":102.17424200875531}"
+                },
+                {
+                  "title": "mocmcp",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocmcp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocmcp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocN8n",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocN8n.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocN8n\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "radxa 5b",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/radxa 5b.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"radxa 5b\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc瑞芯微",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc瑞芯微.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc瑞芯微\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":21.343}"
+                },
+                {
+                  "title": "mocwork",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocwork.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocwork\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "mocLinux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocLinux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocLinux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2024-08-16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-08-16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-16\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}}}"
+                },
+                {
+                  "title": "uml opc总结",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/uml opc总结.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"uml opc总结\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "c 对应的类属性",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/c 对应的类属性.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"c 对应的类属性\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":10},\"to\":{\"line\":4,\"ch\":10}}}"
+                },
+                {
+                  "title": "2024-08-16",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-08-16.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-16\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":8},\"to\":{\"line\":8,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc对象设计模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc对象设计模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc对象设计模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc网络",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc网络\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "代码写法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/代码写法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"代码写法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":42.81481481481482}"
+                },
+                {
+                  "title": "代码学习",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/代码学习.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"代码学习\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "工程数据结构",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/工程数据结构.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"工程数据结构\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":96.92037215056243}"
+                },
+                {
+                  "title": "结构体定义初始化",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/结构体定义初始化.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"结构体定义初始化\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":70.06878080822173}"
+                },
+                {
+                  "title": "事件驱动模型",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/事件驱动模型.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"事件驱动模型\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "数据驱动",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/数据驱动.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"数据驱动\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":66,\"ch\":50},\"to\":{\"line\":66,\"ch\":50}},\"scroll\":0}"
+                },
+                {
+                  "title": "工程数据结构",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/工程数据结构.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"工程数据结构\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc代码",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc代码.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc代码\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc软件工程",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc软件工程.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc软件工程\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "数据结构与算法分析",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/数据结构与算法分析.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"数据结构与算法分析\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":30},\"to\":{\"line\":9,\"ch\":14}},\"scroll\":113.40991892023125}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "rtt数据结构设计",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt数据结构设计\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}}}"
+                },
+                {
+                  "title": "RTT (RT-Thread) 信号量和互斥信号量用法示例",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/RTT (RT-Thread) 信号量和互斥信号量用法示例.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"RTT (RT-Thread) 信号量和互斥信号量用法示例\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":2},\"to\":{\"line\":4,\"ch\":2}}}"
+                },
+                {
+                  "title": "rtt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "rtt_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt_1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "信号量锁和信号量实例",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/信号量锁和信号量实例.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"信号量锁和信号量实例\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "同一线程多次递归持有而造成死锁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/同一线程多次递归持有而造成死锁.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"同一线程多次递归持有而造成死锁\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "事件集",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/事件集.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"事件集\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "rtt_1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt_1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt_1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "rtt设计与实现",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/rtt设计与实现.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt设计与实现\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":772,\"ch\":35},\"to\":{\"line\":772,\"ch\":35}},\"scroll\":756.2275295358486}"
+                },
+                {
+                  "title": "事件集",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/事件集.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"事件集\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "同步消息",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/同步消息.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"同步消息\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.8994082840236687}"
+                },
+                {
+                  "title": "同一线程多次递归持有而造成死锁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/同一线程多次递归持有而造成死锁.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"同一线程多次递归持有而造成死锁\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "rtt设计与实现",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/rtt设计与实现.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"rtt设计与实现\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":771,\"ch\":35},\"to\":{\"line\":771,\"ch\":35}},\"scroll\":0}"
+                },
+                {
+                  "title": "同一线程多次递归持有而造成死锁",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/同一线程多次递归持有而造成死锁.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"同一线程多次递归持有而造成死锁\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2024-10-26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-26.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":23},\"to\":{\"line\":89,\"ch\":23}},\"scroll\":100.20926214147497}"
+                },
+                {
+                  "title": "2024-10-25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-25.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2024-10-26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-26.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":23},\"to\":{\"line\":89,\"ch\":23}},\"scroll\":57.613}"
+                },
+                {
+                  "title": "2024-10-25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-25.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2024-10-26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-26.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":23},\"to\":{\"line\":89,\"ch\":23}},\"scroll\":57.6194}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc软件工程",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc软件工程.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc软件工程\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "mocfpga",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocfpga.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocfpga\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":65},\"to\":{\"line\":10,\"ch\":65}},\"scroll\":0}"
+                },
+                {
+                  "title": "MocN8n",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocN8n.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocN8n\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":3},\"to\":{\"line\":3,\"ch\":3}}}"
+                },
+                {
+                  "title": "mocfpga",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocfpga.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocfpga\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc网络",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc网络\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "mocfpga",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocfpga.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocfpga\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "mocwork",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/mocwork.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"mocwork\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "moc对象设计模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc对象设计模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc对象设计模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.19290780682935782}"
+                },
+                {
+                  "title": "moc网络",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc网络\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc对象设计模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc对象设计模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc对象设计模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "n8n例子",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/n8n例子.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"n8n例子\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":13},\"to\":{\"line\":10,\"ch\":13}},\"scroll\":10.703703703703704}"
+                },
+                {
+                  "title": "init-data. sh",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/init-data. sh.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"init-data. sh\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":52},\"to\":{\"line\":49,\"ch\":52}},\"scroll\":0}"
+                },
+                {
+                  "title": "MocN8n",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocN8n.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocN8n\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc瑞芯微",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc瑞芯微.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc瑞芯微\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "slab管理算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/slab管理算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"slab管理算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2024-10-26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-26.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-26\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":89,\"ch\":23},\"to\":{\"line\":89,\"ch\":23}},\"scroll\":100.20926214147497}"
+                },
+                {
+                  "title": "2024-10-25",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-10-25.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-10-25\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":18.242594401041668}"
+                },
+                {
+                  "title": "rtt数据结构设计",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":29.95088183017845}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocTool",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocTool.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocTool\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc软件工程",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc软件工程.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc软件工程\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc代码",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc代码.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc代码\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc对象设计模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc对象设计模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc对象设计模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc网络",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc网络\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "ZYNQ7000项目深度分析报告",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/ZYNQ7000项目深度分析报告.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"ZYNQ7000项目深度分析报告\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":225,\"ch\":0},\"to\":{\"line\":225,\"ch\":0}},\"scroll\":70.97314749823676}"
+                },
+                {
+                  "title": "zynq中rtt与linux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq中rtt与linux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq中rtt与linux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":371.31040265239193}"
+                },
+                {
+                  "title": "zynq启动",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq启动.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq启动\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "zynq工作总结",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq工作总结.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq工作总结\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":7},\"to\":{\"line\":6,\"ch\":7}},\"scroll\":0}"
+                },
+                {
+                  "title": "zynq1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":19},\"to\":{\"line\":12,\"ch\":19}},\"scroll\":39.61982894766961}"
+                },
+                {
+                  "title": "zynq 项目示例ai",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq 项目示例ai.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq 项目示例ai\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":113,\"ch\":0},\"to\":{\"line\":113,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "boot rom如何创建及使用bootgen及fsbl作用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/boot rom如何创建及使用bootgen及fsbl作用.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"boot rom如何创建及使用bootgen及fsbl作用\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":2.662721893491124}"
+                },
+                {
+                  "title": "zynq arm a",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/zynq arm a.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq arm a\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":8},\"to\":{\"line\":15,\"ch\":8}}}"
+                },
+                {
+                  "title": "使用bootgen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/使用bootgen.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"使用bootgen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "zynq1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/zynq1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":19},\"to\":{\"line\":12,\"ch\":19}},\"scroll\":1.876675603217158}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "zynq arm a",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/zynq arm a.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"zynq arm a\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":8},\"to\":{\"line\":15,\"ch\":8}},\"scroll\":0}"
+                },
+                {
+                  "title": "boot rom如何创建及使用bootgen及fsbl作用",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/boot rom如何创建及使用bootgen及fsbl作用.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"boot rom如何创建及使用bootgen及fsbl作用\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.8805}"
+                },
+                {
+                  "title": "建立zynq硬件系统",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/建立zynq硬件系统.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"建立zynq硬件系统\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.195369861744068}"
+                },
+                {
+                  "title": "Apply Board Preset",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Apply Board Preset.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apply Board Preset\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "建立zynq硬件系统",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/建立zynq硬件系统.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"建立zynq硬件系统\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0.7335120397981946}"
+                },
+                {
+                  "title": "Apply Board Preset",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/Apply Board Preset.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Apply Board Preset\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "使用bootgen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/使用bootgen.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"使用bootgen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":9},\"to\":{\"line\":13,\"ch\":9}},\"scroll\":72.8866852938713}"
+                },
+                {
+                  "title": "建立zynq硬件系统",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/建立zynq硬件系统.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"建立zynq硬件系统\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "安全启动",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/安全启动.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"安全启动\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":62},\"to\":{\"line\":7,\"ch\":62}},\"scroll\":98.26296078717267}"
+                },
+                {
+                  "title": "7010ug585",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/7010ug585.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7010ug585\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}},\"scroll\":63.21047368486807}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "7010ug585",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/7010ug585.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"7010ug585\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "单片机",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc数据结构算法",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc数据结构算法.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc数据结构算法\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc软件工程",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc软件工程.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc软件工程\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc代码",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc代码.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc代码\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc代码",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc代码.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc代码\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc网络",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc网络.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc网络\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc代码",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc代码.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc代码\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "moc计算机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/moc计算机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"moc计算机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocZynq",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocZynq.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocZynq\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocRtos",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocRtos.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocRtos\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "MocTool",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocTool.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocTool\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "stm32手册",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/stm32手册.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"stm32手册\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "STM32的 `.sct` 文件和Zynq的 `.ld` 文件",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/STM32的 `.sct` 文件和Zynq的 `.ld` 文件.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"STM32的 `.sct` 文件和Zynq的 `.ld` 文件\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":37},\"to\":{\"line\":74,\"ch\":37}},\"scroll\":0}"
+                },
+                {
+                  "title": "spi模式",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/spi模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"spi模式\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":117.37036959021033}"
+                },
+                {
+                  "title": "STM32的 `.sct` 文件和Zynq的 `.ld` 文件",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/STM32的 `.sct` 文件和Zynq的 `.ld` 文件.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"STM32的 `.sct` 文件和Zynq的 `.ld` 文件\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":8},\"to\":{\"line\":86,\"ch\":8}},\"scroll\":6.6243}"
+                },
+                {
+                  "title": "spi",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/spi.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"spi\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":347,\"ch\":0},\"to\":{\"line\":347,\"ch\":0}},\"scroll\":0.3218935001531296}"
+                },
+                {
+                  "title": "Q 数据分配向低地址分配",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/Q 数据分配向低地址分配.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"Q 数据分配向低地址分配\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":4},\"to\":{\"line\":18,\"ch\":4}},\"scroll\":15.143097575201232}"
+                },
+                {
+                  "title": "printf",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/printf.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"printf\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":93,\"ch\":0},\"to\":{\"line\":93,\"ch\":0}},\"scroll\":98.32916514078777}"
+                },
+                {
+                  "title": "MPU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/MPU.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MPU\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":117},\"to\":{\"line\":8,\"ch\":141}},\"scroll\":111.42501273699969}"
+                },
+                {
+                  "title": "LWIP动态内存管理策略",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/LWIP动态内存管理策略.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"LWIP动态内存管理策略\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":88},\"to\":{\"line\":4,\"ch\":88}},\"scroll\":56.72820180190465}"
+                },
+                {
+                  "title": "MPU",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/MPU.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MPU\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "IPSR",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/IPSR.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"IPSR\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":24},\"to\":{\"line\":8,\"ch\":24}},\"scroll\":0}"
+                },
+                {
+                  "title": "flash",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/flash.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"flash\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":106},\"to\":{\"line\":36,\"ch\":106}},\"scroll\":95.48352646953579}"
+                },
+                {
+                  "title": "cotex m与a中断",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/cotex m与a中断.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"cotex m与a中断\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":312,\"ch\":0},\"to\":{\"line\":312,\"ch\":0}},\"scroll\":304.96205096774634}"
+                },
+                {
+                  "title": "cortex a",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/cortex a.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"cortex a\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":217.21824804479948}"
+                },
+                {
+                  "title": "bootloader",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/bootloader.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"bootloader\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":130},\"to\":{\"line\":7,\"ch\":130}},\"scroll\":386.22970949432386}"
+                },
+                {
+                  "title": "伪指令",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/伪指令.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"伪指令\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":202.60258435313023}"
+                },
+                {
+                  "title": "伪操作",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/伪操作.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"伪操作\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":55},\"to\":{\"line\":9,\"ch\":42}},\"scroll\":41.95151132643387}"
+                },
+                {
+                  "title": "数据总线 系统总线",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/数据总线 系统总线.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"数据总线 系统总线\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":67,\"ch\":28},\"to\":{\"line\":67,\"ch\":6}},\"scroll\":90.71163560020763}"
+                },
+                {
+                  "title": "排他访问",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/排他访问.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"排他访问\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "单片机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":101},\"to\":{\"line\":100,\"ch\":101}},\"scroll\":386.249949307245}"
+                },
+                {
+                  "title": "存储器重映射 别名",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/存储器重映射 别名.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"存储器重映射 别名\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":40,\"ch\":0},\"to\":{\"line\":40,\"ch\":0}},\"scroll\":41.244443822790075}"
+                },
+                {
+                  "title": "串口fifo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/串口fifo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"串口fifo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":9},\"to\":{\"line\":6,\"ch\":9}},\"scroll\":12.436111026340061}"
+                },
+                {
+                  "title": "LWIP动态内存管理策略",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/LWIP动态内存管理策略.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"LWIP动态内存管理策略\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":88},\"to\":{\"line\":4,\"ch\":88}}}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "rtt数据结构设计",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":0}"
+                },
+                {
+                  "title": "MocCotex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"moc/MocCotex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"MocCotex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "rtt数据结构设计",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":4},\"to\":{\"line\":5,\"ch\":4}},\"scroll\":11.080430705895585}"
+                },
+                {
+                  "title": "数据总线 系统总线",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/数据总线 系统总线.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"数据总线 系统总线\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":93},\"to\":{\"line\":9,\"ch\":93}},\"scroll\":0}"
+                },
+                {
+                  "title": "单片机",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":100,\"ch\":101},\"to\":{\"line\":100,\"ch\":101}},\"scroll\":372.28984295880355}"
                 },
                 {
@@ -30,9 +972,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":63,\"ch\":33},\"to\":{\"line\":63,\"ch\":33}},\"scroll\":0}"
                 },
                 {
-                  "title": "2024-08-17",
+                  "title": "rtt数据结构设计",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-08-17.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -224,7 +1166,7 @@
                 {
                   "title": "单片机",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"book/单片机.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"单片机\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -252,9 +1194,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}}}"
                 },
                 {
-                  "title": "2024-08-17",
+                  "title": "rtt数据结构设计",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2024-08-17.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/rtt数据结构设计.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2024-08-17\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":9},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -288,9 +1230,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "CPOL",
+                  "title": "spi模式",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/CPOL.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"CPOL\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/spi模式.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"CPOL\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":68.55925877888997}"
                 },
                 {
@@ -848,7 +1790,7 @@
                 {
                   "title": "init-data. sh",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/init-data. sh.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"init-data. sh\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"note/init-data. sh.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"init-data. sh\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":52},\"to\":{\"line\":49,\"ch\":52}},\"scroll\":0}"
                 },
                 {
@@ -1020,9 +1962,9 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":2},\"to\":{\"line\":0,\"ch\":2}}}"
                 },
                 {
-                  "title": "2025-09-23",
+                  "title": "radxa 5b",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/2025-09-23.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2025-09-23\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"已归类卡/radxa 5b.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":false},\"icon\":\"lucide-file\",\"title\":\"2025-09-23\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}},\"scroll\":0}"
                 },
                 {
@@ -1156,13 +2098,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "已归类卡/数据总线 系统总线.md",
+                "file": "已归类卡/2024-10-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "数据总线 系统总线"
+              "title": "2024-10-24"
             }
           }
         ]
@@ -1216,7 +2158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2024-08-16",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -1543,7 +2485,7 @@
             }
           },
           {
-            "id": "689492e774288391",
+            "id": "abbc723c4e39a22a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -1562,7 +2504,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       },
       {
         "id": "c3729bea9f5e9d46",
@@ -1663,32 +2605,32 @@
   },
   "active": "000bf66fdf648a09",
   "lastOpenFiles": [
-    "已归类卡/单片机.md",
-    "已归类卡/存储器重映射 别名.md",
-    "已归类卡/2024-08-17.md",
-    "已归类卡/stm32手册.md",
-    "已归类卡/vscode+ozone.md",
-    "moc/MocCotex.md",
-    "note/25.7.18-09.01.md",
-    "已归类卡/安全启动.md",
-    "已归类卡/flash.md",
-    "已归类卡/使用bootgen.md",
-    "已归类卡/Q 数据分配向低地址分配.md",
-    "已归类卡/STM32的 `.sct` 文件和Zynq的 `.ld` 文件.md",
-    "已归类卡/IPSR.md",
-    "moc/moc代码.md",
-    "moc/moc网络.md",
-    "moc/moc软件工程.md",
-    "note/江协stm32.md",
-    "book/野火库.md",
-    "note/systeminit.md",
-    "note/SystemInit_ExtMemCtl.md",
-    "已归类卡/排他访问.md",
+    "moc/mocwork.md",
+    "已归类卡/mcp1.md",
+    "moc/mocmcp.md",
+    "moc/MocN8n.md",
+    "note/init-data. sh.md",
+    "已归类卡/radxa 5b.md",
+    "moc/moc瑞芯微.md",
+    "moc/mocLinux.md",
+    "已归类卡/2024-08-16.md",
+    "已归类卡/uml opc总结.md",
+    "已归类卡/c 对应的类属性.md",
     "moc/moc对象设计模式.md",
-    "已归类卡/7010ug585.md",
-    "已归类卡/zynq1.md",
-    "已归类卡/CPOL.md",
-    "已归类卡/cotex m与a中断.md",
+    "moc/moc计算机.md",
+    "moc/moc网络.md",
+    "已归类卡/代码写法.md",
+    "已归类卡/代码学习.md",
+    "已归类卡/工程数据结构.md",
+    "已归类卡/结构体定义初始化.md",
+    "已归类卡/事件驱动模型.md",
+    "已归类卡/数据驱动.md",
+    "moc/moc代码.md",
+    "moc/moc软件工程.md",
+    "已归类卡/数据结构与算法分析.md",
+    "moc/moc数据结构算法.md",
+    "已归类卡/rtt数据结构设计.md",
+    "已归类卡/RTT (RT-Thread) 信号量和互斥信号量用法示例.md",
     "未命名.canvas",
     "fujian/Pasted image 20251103083017.png",
     "fujian/Pasted image 20251103082718.png",

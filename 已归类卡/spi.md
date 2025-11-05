@@ -328,7 +328,8 @@ uint8_t sf_WriteBuffer(uint8_t* _pBuf, uint32_t _uiWriteAddr, uint32_t _usWriteS
 
 **应用场景**
 
-`sf_WriteBuffer` 函数适用于需要在 Serial Flash 存储器上进行 **块数据写入** 的各种嵌入式应用场景，例如：
+`sf_WriteBuffer`
+==函数适用于需要在 Serial Flash 存储器上进行 **块数据写入** 的各种嵌入式应用场景==，例如：
 
 *   **数据日志记录**:  将系统运行日志、传感器数据等非易失性数据存储到 Flash 中。
 *   **配置参数存储**:  保存系统配置参数、用户设置等。
@@ -662,7 +663,7 @@ HAL_StatusTypeDef HAL_SPI_TransmitReceive_DMA(SPI_HandleTypeDef *hspi, uint8_t *
 
 **函数功能概览**
 
-`HAL_DMA_Start_IT` 函数是 STM32 HAL 库中用于启动 **DMA (Direct Memory Access, 直接内存访问)** 传输的关键函数，并且它以 **中断驱动 (Interrupt-driven)** 模式启动 DMA 传输。  这意味着 DMA 在后台进行数据传输，当传输完成、发生错误或达到半传输等特定事件时，DMA 控制器会产生中断，通知 CPU 进行后续处理。  这种方式极大地提高了数据传输的效率，并释放了 CPU 的计算资源。
+`HAL_DMA_Start_IT` 函数是 STM32 HAL 库中用==于启动 **DMA (Direct Memory Access, 直接内存访问)** 传输的关键函数，并且它以 **中断驱动 (Interrupt-driven)** 模式启动 DMA 传输。  这意味着 DMA 在后台进行数据传输，当传输完成、发生错误或达到半传输等特定事件时，DMA 控制器会产生中断==，通知 CPU 进行后续处理。  这种方式极大地提高了数据传输的效率，并释放了 CPU 的计算资源。
 
 **函数签名和参数**
 
@@ -843,7 +844,7 @@ HAL_StatusTypeDef HAL_DMA_Start_IT(DMA_HandleTypeDef *hdma, uint32_t SrcAddress,
 
 **函数功能概览**
 
-`HAL_SPI_TransmitReceive_IT` 函数是 STM32 HAL 库中用于发起 **SPI (Serial Peripheral Interface, 串行外围接口)** **全双工 (同时发送和接收)** 通信的关键函数，并且它采用 **中断驱动 (Interrupt-driven)** 模式。  这意味着 SPI 的数据发送和接收操作在后台进行，当发送缓冲区为空、接收缓冲区非空或发生错误时，SPI 外设会产生中断，通知 CPU 进行后续处理。  这种模式极大地提高了 SPI 通信的效率，并允许 CPU 在 SPI 通信的同时执行其他任务。
+`HAL_SPI_TransmitReceive_IT` 函数是 STM32 HAL 库中==用于发起 **SPI (Serial Peripheral Interface, 串行外围接口)** **全双工 (同时发送和接收)** 通信的关键函数，并且它采用 **中断驱动 (Interrupt-driven)** 模式。  这意味着 SPI 的数据发送和接收操作在后台进行，当发送缓冲区为空、接收缓冲区非空或发生错误时，SPI 外设会产生中断，通知 CPU 进行后续处理。==  这种模式极大地提高了 SPI 通信的效率，并允许 CPU 在 SPI 通信的同时执行其他任务。
 
 **函数签名和参数**
 
@@ -1092,7 +1093,7 @@ HAL_StatusTypeDef HAL_SPI_TransmitReceive_IT(SPI_HandleTypeDef *hspi, uint8_t *p
 
 **函数功能概览**
 
-`HAL_SPI_TransmitReceive` 函数是 STM32 HAL 库中用于执行 **SPI (Serial Peripheral Interface) 全双工 (同步发送和接收)** 通信的核心函数，但与 `HAL_SPI_TransmitReceive_IT` 不同，它是 **同步阻塞 (Synchronous Blocking)** 方式。  这意味着当您调用此函数后，程序会 **一直等待，直到 SPI 数据发送和接收完成 (或者发生超时)** 才返回。  这种模式下，CPU 会在等待期间被占用，无法执行其他任务，但代码逻辑相对简单直接，易于理解和调试。  它非常适合对实时性要求不高，或者需要确保 SPI 通信过程可靠完成的场景。  此外，此函数还引入了 **超时机制 (Timeout)**，以防止程序在 SPI 通信异常时无限期等待。
+`HAL_SPI_TransmitReceive` 函数是 STM32 HAL 库中用于执行 ==**SPI (Serial Peripheral Interface) 全双工 (同步发送和接收)** 通信的核心函数，但与 `HAL_SPI_TransmitReceive_IT` 不同，它是 **同步阻塞 (Synchronous Blocking)** 方式。  这意味着当您调用此函数后，程序会 **一直等待，直到 SPI 数据发送和接收完成 (或者发生超时)** 才返回==。  这种模式下，CPU 会在等待期间被占用，无法执行其他任务，但代码逻辑相对简单直接，易于理解和调试。  它非常适合对实时性要求不高，或者需要确保 SPI 通信过程可靠完成的场景。  此外，此函数还引入了 **超时机制 (Timeout)**，以防止程序在 SPI 通信异常时无限期等待。
 
 **函数签名和参数**
 
@@ -1538,17 +1539,17 @@ HAL_StatusTypeDef HAL_SPI_TransmitReceive(SPI_HandleTypeDef *hspi, uint8_t *pTxD
 
 **与 `HAL_SPI_TransmitReceive_IT` 的主要区别**
 
-| 特性             | `HAL_SPI_TransmitReceive_IT` (中断) | `HAL_SPI_TransmitReceive` (同步阻塞) |
-| ---------------- | ----------------------------------- | ------------------------------------- |
-| 工作方式         | 中断驱动 (Interrupt-driven)         | 同步阻塞 (Synchronous Blocking)       |
-| CPU 占用          | 低 (后台运行，CPU 可执行其他任务)     | 高 (等待期间 CPU 被占用)             |
-| 效率             | 高 (利用 DMA 或中断，效率较高)     | 较低 (轮询等待，效率相对较低)         |
-| 实时性           | 实时性较好 (中断响应及时)           | 实时性相对较差 (阻塞等待)             |
-| 代码复杂度       | 较高 (需要处理中断、回调函数等)      | 较低 (代码逻辑相对简单直接)           |
-| 适用场景         | 对实时性、效率要求高的场景           | 对实时性要求不高，可靠性优先的场景     |
-| 超时机制         | 无内置超时机制 (需要用户自行实现)     | 内置超时机制 (`Timeout` 参数)         |
-| ISR 函数指针     | 使用 (`hspi->RxISR`, `hspi->TxISR`) | 清除为 `NULL`                       |
-| 数据传输方式     | 中断服务例程 (ISR) 中处理           | 在函数自身的循环中轮询处理            |
+| 特性       | `HAL_SPI_TransmitReceive_IT` (中断) | `HAL_SPI_TransmitReceive` (同步阻塞) |
+| -------- | --------------------------------- | -------------------------------- |
+| 工作方式     | 中断驱动 (Interrupt-driven)           | 同步阻塞 (Synchronous Blocking)      |
+| CPU 占用   | 低 (后台运行，CPU 可执行其他任务)              | 高 (等待期间 CPU 被占用)                 |
+| 效率       | 高 (利用 DMA 或中断，效率较高)               | 较低 (轮询等待，效率相对较低)                 |
+| 实时性      | 实时性较好 (中断响应及时)                    | 实时性相对较差 (阻塞等待)                   |
+| 代码复杂度    | 较高 (需要处理中断、回调函数等)                 | 较低 (代码逻辑相对简单直接)                  |
+| 适用场景     | 对实时性、效率要求高的场景                     | 对实时性要求不高，可靠性优先的场景                |
+| 超时机制     | 无内置超时机制 (需要用户自行实现)                | 内置超时机制 (`Timeout` 参数)            |
+| ISR 函数指针 | 使用 (`hspi->RxISR`, `hspi->TxISR`) | 清除为 `NULL`                       |
+| 数据传输方式   | 中断服务例程 (ISR) 中处理                  | 在函数自身的循环中轮询处理                    |
 
 **使用建议和注意事项**
 

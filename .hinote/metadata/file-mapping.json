@@ -676,7 +676,21 @@
     "已归类卡/虚拟环境.md": "已归类卡_虚拟环境.md.json",
     "已归类卡/nodejs虚拟环境.md": "已归类卡_nodejs虚拟环境.md.json",
     "note/25.7.18-09.01.md": "note_25.7.18-09.01.md.json",
-    "note/SystemInit_ExtMemCtl.md": "note_systeminit_extmemctl.md.json"
+    "note/SystemInit_ExtMemCtl.md": "note_systeminit_extmemctl.md.json",
+    "已归类卡/串口fifo.md": "已归类卡_串口fifo.md.json",
+    "note/串口fifo.md": "note_串口fifo.md.json",
+    "moc/MocRtos.md": "moc_mocrtos.md.json",
+    "moc/MocTool.md": "moc_moctool.md.json",
+    "已归类卡/spi模式.md": "已归类卡_spi模式.md.json",
+    "book/单片机.md": "book_单片机.md.json",
+    "note/Apply Board Preset.md": "note_apply_board_preset.md.json",
+    "已归类卡/zynq 项目示例ai.md": "已归类卡_zynq_项目示例ai.md.json",
+    "note/slab管理算法.md": "note_slab管理算法.md.json",
+    "note/信号量锁和信号量实例.md": "note_信号量锁和信号量实例.md.json",
+    "note/init-data. sh.md": "note_init-data._sh.md.json",
+    "已归类卡/RTT (RT-Thread) 信号量和互斥信号量用法示例.md": "已归类卡_rtt_(rt-thread)_信号量和互斥信号量用法示例.md.json",
+    "已归类卡/rtt数据结构设计.md": "已归类卡_rtt数据结构设计.md.json",
+    "已归类卡/radxa 5b.md": "已归类卡_radxa_5b.md.json"
   },
-  "lastUpdated": 1762258958248
+  "lastUpdated": 1762306644322
 }

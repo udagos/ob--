@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/tool]]"
+  - "[[../moc/MocTool]]"
 ---
 [[moc 兴趣]]
 #ed 

@@ -2,18 +2,14 @@
 up:
   - "[[../moc/MocCotex|MocCotex]]"
 ---
-```
----
-tags: 
----
-```
+
 
 
 STM32的 `.sct` 文件和Zynq的 `.ld` 文件在语法和功能上存在一些差异，以下是两者的主要区别：
 
 ### 语法结构
 - **STM32的`.sct`文件**：
-    - 由一个或多个加载域（load regions）组成，每个加载域由一个或多个执行域（execution regions）组成。
+    - ==由一个或多个加载域（load regions）组成，每个加载域由一个或多个执行域（execution regions）组成。==
     - 加载域和执行域之间使用花括号“{}”分隔。
     - 示例：
         ```plaintext
@@ -29,7 +25,7 @@ STM32的 `.sct` 文件和Zynq的 `.ld` 文件在语法和功能上存在一些�
         }
         ```
 - **Zynq的`.ld`文件**：
-    - 使用`MEMORY`关键字定义内存区域，使用`SECTIONS`关键字定义段的放置。
+    - ==使用`MEMORY`关键字定义内存区域，使用`SECTIONS`关键字定义段的放置。==
     - 示例：
         ```plaintext
         MEMORY {

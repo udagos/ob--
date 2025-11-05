@@ -1,6 +1,8 @@
 ---
 up:
   - "[[../moc/MocN8n|MocN8n]]"
+same:
+  - "[[../note/init-data. sh]]"
 ---
 
 version: '3.8'
@@ -50,7 +52,7 @@ services:
       postgres:
         condition: service_healthy
 
-```
+
 好的，这是一个 Docker Compose 文件的配置说明，我会用中文为您详细解释。
 
 这个 Docker Compose 文件定义了一个多容器的应用，用于部署 **n8n 自动化平台**，并使用一个独立的 **PostgreSQL 数据库**来持久化存储其数据。
@@ -207,7 +209,7 @@ services:
     
 1. **访问 n8n**: 等待几分钟让服务完全启动后，在您的浏览器中打开 `http://localhost:5678`，即可开始设置和使用 n8n。
 
-# [[init-data. sh]]
+# [[../note/init-data. sh]]
  
 #  n8n storage 数据卷的内容具体都是什么
  好的，根据您提供的截图，我们来详细解释一下这个 `n8n_storage` 数据卷里的内容具体都是什么。

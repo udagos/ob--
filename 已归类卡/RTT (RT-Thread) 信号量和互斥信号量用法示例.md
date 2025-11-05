@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/rtos]]"
+  - "[[../moc/MocRtos]]"
 ---
 # RTT (RT-Thread) 信号量和互斥信号量用法示例
 

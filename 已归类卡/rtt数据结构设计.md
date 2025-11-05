@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/MocCotex|MocCotex]]"
+  - "[[../moc/MocRtos]]"
 ---
 [moc  uml](../moc/moc%20%20uml.md)
 #ed 

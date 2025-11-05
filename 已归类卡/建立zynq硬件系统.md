@@ -1,6 +1,8 @@
 ---
 up:
   - "[[../moc/MocZynq]]"
+same:
+  - "[[../note/Apply Board Preset]]"
 ---
 
 
@@ -32,7 +34,7 @@ up:
 
 1.  **运行 Block Automation:**  添加 Zynq PS IP 核后，==Vivado 会在画布上方提示 "Run Block Automation"==。点击 "Run Block Automation"。
 2.  **Block Automation 配置:**  在弹出的 "Run Block Automation" 对话框中：
-    *   **Board Preset:**  如果使用了开发板，并且之前在创建工程时选择了开发板型号，==通常 "[[Apply Board Preset]]" 会被默认勾选==。==使用 Board Preset 可以自动配置 PS 的一些基本设置，例如时钟、接口等，**对于快速搭建最小系统非常方便，推荐勾选**。==如果不使用 Board Preset 或者需要自定义配置，可以取消勾选 "Apply Board Preset"。
+    *   **Board Preset:**  如果使用了开发板，并且之前在创建工程时选择了开发板型号，==通常 "[[../note/Apply Board Preset]]" 会被默认勾选==。==使用 Board Preset 可以自动配置 PS 的一些基本设置，例如时钟、接口等，**对于快速搭建最小系统非常方便，推荐勾选**。==如果不使用 Board Preset 或者需要自定义配置，可以取消勾选 "Apply Board Preset"。
     *   **点击 "OK"** 运行 Block Automation。  Vivado 会自动完成 PS IP 核的一些基本配置和连接。
 
 **步骤 4：检查和精简 Block Design (最小系统关键步骤)**

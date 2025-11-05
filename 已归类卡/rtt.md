@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/rtos|rtos]]"
+  - "[[../moc/MocRtos|MocRtos]]"
 ---
 
 在 RT-Thread 中, 所有的数据结构都称之为对象。

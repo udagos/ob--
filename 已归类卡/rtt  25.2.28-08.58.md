@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[../moc/rtos]]"
+  - "[[../moc/MocRtos]]"
 ---
 
 # 15 `rt_hw_stack_init`
