@@ -1,11 +1,20 @@
 {
   "pluginList": [
+    "lethefrost/breadcrumbs",
     "SkepticMystic/breadcrumbs",
     "Feel-ix-343/obsidian-canvas-moc",
     "CatMuse/HiNote",
     "open-spaced-repetition/obsidian-spaced-repetition-recall"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "lethefrost/breadcrumbs",
+      "version": ""
+    },
+    {
+      "repo": "CatMuse/HiNote",
+      "version": ""
+    },
     {
       "repo": "Feel-ix-343/obsidian-canvas-moc",
       "version": ""

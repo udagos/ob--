@@ -3,7 +3,7 @@
   "noteThreshold": "e",
   "noteToRecord": "all",
   "autoRecordInterval": "0",
-  "currentVersion": "1.4.3",
+  "currentVersion": "1.5.2",
   "Recorders": [
     {
       "id": "recorder-1760843239442",
@@ -76,5 +76,6 @@
     60,
     85
   ],
+  "fieldAlias": [],
   "enableMobileStatusBar": false
 }

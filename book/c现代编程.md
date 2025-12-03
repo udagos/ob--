@@ -1,6 +1,13 @@
 ---
 same:
   - "[[../note/c现代编程总结|c现代编程总结]]"
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+  - "[[book对象及设计模式]]"
+obsidian-note-status:
+  - colorful:5
+next:
+  - "[[c现代编程续 设计模式]]"
 ---
 没有接口抽象
 # c 语言与面向对象

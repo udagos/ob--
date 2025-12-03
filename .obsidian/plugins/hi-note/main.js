@@ -245,3 +245,5 @@ html2canvas/dist/html2canvas.js:
       PERFORMANCE OF THIS SOFTWARE.
       ***************************************************************************** *)
 */
+
+/* nosourcemap */

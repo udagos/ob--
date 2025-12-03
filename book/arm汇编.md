@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+---
 
 # arm 汇编的特点
 ## **LDR/STR 架构**

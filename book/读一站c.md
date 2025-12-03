@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[bookCode]]"
+---
 
 这段代码是一个嵌入式系统中的汇编代码片段，用于初始化中断向量表（Interrupt Vector Table，IVT）。它主要通过操作ARM处理器的系统控制寄存器（SCTLR）和向量基地址寄存器（VBAR）来实现。以下是对这段代码的详细解析：
 ## 1  static void rt_hw_vector_init(void)

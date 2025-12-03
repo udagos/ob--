@@ -3,6 +3,10 @@ same:
   - "[[../note/cm3 cm4|cm3 cm4]]"
 next:
   - "[[../note/补充：加载域运行域|补充：加载域运行域]]"
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+obsidian-note-status:
+  - colorful:1
 ---
 系统管理的==**外设和控制寄存器可以通过存储器映射访问**==
 # 嵌入式软件开发

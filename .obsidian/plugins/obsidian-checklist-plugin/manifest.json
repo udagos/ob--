@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-checklist-plugin",
+    "name": "Checklist",
+    "version": "2.2.14",
+    "minAppVersion": "0.14.5",
+    "description": "将跨页面的待办清单整合到用户侧边栏",
+    "author": "delashum",
+    "isDesktopOnly": false
+}

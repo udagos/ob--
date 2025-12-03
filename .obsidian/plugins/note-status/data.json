@@ -22,7 +22,7 @@
           "templateId": "colorful"
         },
         {
-          "name": "无用",
+          "name": "draft",
           "icon": "📝",
           "color": "#E0E0E0",
           "templateId": "colorful"
@@ -67,6 +67,36 @@
           "name": "archived",
           "icon": "📦",
           "color": "#795548",
+          "templateId": "colorful"
+        },
+        {
+          "name": "1",
+          "icon": "⭐",
+          "color": "#888888",
+          "templateId": "colorful"
+        },
+        {
+          "name": "2",
+          "icon": "⭐⭐",
+          "color": "#888888",
+          "templateId": "colorful"
+        },
+        {
+          "name": "3",
+          "icon": "⭐⭐⭐",
+          "color": "#888888",
+          "templateId": "colorful"
+        },
+        {
+          "name": "4",
+          "icon": "⭐⭐⭐⭐",
+          "color": "#888888",
+          "templateId": "colorful"
+        },
+        {
+          "name": "5",
+          "icon": "⭐⭐⭐⭐⭐",
+          "color": "#888888",
           "templateId": "colorful"
         }
       ]

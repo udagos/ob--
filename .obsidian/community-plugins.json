@@ -19,14 +19,11 @@
   "moc-link-helper",
   "templater-obsidian",
   "obsidian-frontmatter-tag-suggest",
-  "hi-note",
   "obsidian-icon-folder",
   "obsidian-tasks-plugin",
   "various-complements",
-  "breadcrumbs",
   "note-status",
   "wordflow-tracker",
-  "calendar",
   "auto-archive",
   "obsidian42-brat",
   "table-editor-obsidian",
@@ -42,5 +39,8 @@
   "obsidian-excalidraw-plugin",
   "obsidian-file-path-to-uri",
   "obsidian42-strange-new-worlds",
-  "obsidian-file-cleaner"
+  "obsidian-file-cleaner",
+  "hi-note",
+  "breadcrumbs",
+  "editing-toolbar"
 ]

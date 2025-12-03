@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+---
 # 基于 arm 的嵌入式系统
 
 ## risc 设计思想 

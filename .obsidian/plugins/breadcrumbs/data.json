@@ -15,6 +15,9 @@
     },
     {
       "label": "prev"
+    },
+    {
+      "label": "sum"
     }
   ],
   "edge_field_groups": [
@@ -46,6 +49,12 @@
       "label": "prevs",
       "fields": [
         "prev"
+      ]
+    },
+    {
+      "label": "sums",
+      "fields": [
+        "sum"
       ]
     }
   ],
@@ -207,7 +216,8 @@
         "show_attributes": [],
         "merge_fields": false,
         "field_group_labels": [
-          "downs"
+          "downs",
+          "sums"
         ],
         "edge_sort_id": {
           "field": "basename",

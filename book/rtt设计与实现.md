@@ -3,7 +3,14 @@ same:
   - "[[../note/slab管理算法]]"
   - "[[同一线程多次递归持有而造成死锁]]"
   - "[[../已归类卡/同步消息|同步消息]]"
+prev:
+  - "[[bookRtt]]"
+link: RT-Thread设计与实现([pdf](zotero://open-pdf/library/items/Q5ZI6RSA?page=3&annotation=KWCXQL5L))
+obsidian-note-status:
+  - colorful:5
 ---
+RT-Thread设计与实现 ([pdf](zotero://open-pdf/library/items/Q5ZI6RSA?page=3&annotation=KWCXQL5L))
+
 RT-Thread 可通过方便易用的工具，裁剪出仅需要 3 KBFlash、1.2 KBRAM 内存资源的 NANO 版本
 
 RT-Thread 与其他很多 RTOS（如 FreeRTOS、uC/OS）的主要区别之一是，它不仅仅是一个实时内核，还具备丰富的中间层组件

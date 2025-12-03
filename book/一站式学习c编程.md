@@ -1,3 +1,8 @@
+---
+obsidian-note-status: []
+prev:
+  - "[[bookCode]]"
+---
 [ai问题](../已归类卡/ai问题.md)
 [读一站c](../book/读一站c.md)
 # 程序的基本概念

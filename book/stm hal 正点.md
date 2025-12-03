@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+---
 ![[Pasted image 20240926103424.png]]
 ## sTM 32 H 743 系统架构
 ### 系统架构

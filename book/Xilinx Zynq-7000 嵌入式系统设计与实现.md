@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[bookzynq]]"
+---
 ```
 ---
 tags: Xilinx Zynq-7000 嵌入式系统设计与实现 基于ARM Cortex-A9双核处理器和Vivado的设计方法

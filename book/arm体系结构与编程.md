@@ -1,3 +1,7 @@
+---
+prev:
+  - "[[../inbox/bookcotex|bookcotex]]"
+---
 # 概述及基本编程模型
 ## ARM 处理器的运行模式
 ARM 处理器的 **7 种运行模式**

@@ -1,3 +1,10 @@
+---
+prev:
+  - "[[bookRtt]]"
+link: RT-Thread内核实现与应用开发实战指南([pdf](zotero://open-pdf/library/items/V8UA89L4?page=1&annotation=MBUBN57V))
+---
+RT-Thread内核实现与应用开发实战指南 ([pdf](zotero://open-pdf/library/items/V8UA89L4?page=1&annotation=MBUBN57V))
+
 # 实现链表
 ![[Pasted image 20240614100912.png]]
 
